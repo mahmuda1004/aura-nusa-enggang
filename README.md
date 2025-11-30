@@ -4,7 +4,7 @@ Desain **"Aura Nusa Enggang"** menginterpretasikan identitas **Benua Etam** seca
 
 ## Preview Desain
 ![Preview Batik Aura Nusa Enggang](./aura-nusa-enggang.png)
-![Preview Batik Aura Nusa Enggang](./aplikasi-batik.png)
+![Preview Batik Aura Nusa Enggang](./aplikasi-desain.png)
 
 ## Elemen Visual Utama
 - **Siluet Enggang**: Melambangkan kepemimpinan dan visi jauh ke depan.  
